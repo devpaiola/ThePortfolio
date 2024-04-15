@@ -1,47 +1,50 @@
-<h1 align="center">
-  💻<br>Portfólio - Iuri Silva
-</h1>
+# Portfólio Pessoal - Dev Paiola  |  Fabricio Paiola
+# Meu Portfólio
 
-![Resultado final do projeto](assets/image/preview.png)
+Bem-vindo ao meu portfólio online! Este é um projeto pessoal que desenvolvi para mostrar meu trabalho e habilidades em design web e desenvolvimento front-end. Aqui, você encontrará uma coleção dos meus projetos mais recentes e informações sobre mim.
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
 
-## 📚 Seções
+## Tecnologias Utilizadas
 
-O site é composto por seis seções:
+- HTML
+- CSS
+- JavaScript
+- PHP
 
-- **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Experiências:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
-- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+## Recursos
 
----
+- *Página Inicial*: Uma breve introdução sobre mim, meu objetivo e as principais áreas em que atuo.
+- *Projetos*: Uma seção que destaca alguns dos meus projetos recentes com descrições e links para as páginas de demonstração.
+- *Sobre Mim*: Uma página onde você pode conhecer mais sobre minha formação, experiência e interesses.
+- *Contato*: Informações de contato para que você possa entrar em contato comigo.
 
-## 💼 Tecnologias utilizadas
+## Como Rodar Localmente
 
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+Se desejar rodar o site localmente, siga estas etapas:
 
-- HTML;
-- Sass;
-- JavaScript;
-- ScrollReveal;
-- SVG Inject;
+1. Clone o repositório:
 
----
+   ```bash
+   https://github.com/frilii/portfolio-main.git
+Navegue até o diretório do projeto:
 
-<h2>🦄 Autor</h2>
+bash
+Copy code
+cd seusite
+Abra o arquivo index.html no seu navegador.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+Contribuições
+Aceito contribuições, sugestões e feedback para melhorar este portfólio. Se você identificar algum problema ou quiser colaborar, fique à vontade para abrir um problema ou enviar um pull request.
+
+Contato
+Email: devpaiola@gmail.com
+LinkedIn: [Fabricio Paiola](https://www.linkedin.com/in/fabrício-paiola-246923241/)
+GitHub: [Dev Paiola](https://github.com/frilii)
+Licença
+Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+Agradeço por visitar meu portfólio! Espero que você encontre as informações que está procurando. Sinta-se à vontade para entrar em contato e explorar meus projetos.
+#
+
+
+EM DESENVOLVIMENTO
