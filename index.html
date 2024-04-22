@@ -27,6 +27,7 @@
         <ul class="nav-list">
           <li><a href="#s-about">Sobre</a></li>
           <li><a href="#s-projects">Projetos</a></li>
+          <li><a href="#s-form">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -114,6 +115,22 @@
       </div>
     </section>
 
+    <section id="s-form" class="formulario">
+      <h2 class="titulo">FALA COMIGO<span>.</span></h2>
+      <div class="interface">
+          
+
+        <form class="form-inter" action="mailto:devpaiola@example.com" method="post" enctype="text/plain">
+          <input type="text" name="nome" placeholder="Seu nome completo:" required>
+          <input type="email" name="email" placeholder="Seu e-mail:" required>
+          <input type="tel" name="celular" placeholder="Seu celular:">
+          <textarea name="mensagem" placeholder="Sua mensagem" required></textarea>
+          <div class="btn-enviar"><input type="submit" value="ENVIAR"></div>
+      </form>
+      
+      </div><!--interface-->
+  </section><!--formulario-->
+
 
 
     <footer>
@@ -131,6 +148,7 @@
   </main>
 
   <script src="https://unpkg.com/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script>
+  <script src="index.php"></script>
   <script type="module" src="assets/js/main.js"></script>
 </body>
 

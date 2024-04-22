@@ -251,7 +251,6 @@ header .grid-layout nav .nav-list li a:hover {
         padding: 100px 20px 0px 20px
     }
 }
-
 #s-home .grid-layout #home {
     display: flex;
     align-items: center;
@@ -774,3 +773,44 @@ footer div {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+section.formulario {
+    background-color: #111;
+    height: 100vh;
+    padding: 80px 4%;
+}
+
+section.formulario h2 {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 500;
+    margin-bottom: 24px;
+    text-align: center; 
+}
+
+section.formulario form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+section.formulario form input,
+section.formulario form textarea {
+    background-color: #151515;
+    border: 1px solid #1f1f1f;
+    padding: 16px;
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+.interface {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.form-inter {
+    width: 50%;
+}
