@@ -18,6 +18,11 @@ Bem-vindo ao meu portfólio online! Este é um projeto pessoal que desenvolvi pa
 - *Sobre Mim*: Uma página onde você pode conhecer mais sobre minha formação, experiência e interesses.
 - *Contato*: Informações de contato para que você possa entrar em contato comigo.
 
+
+## Hospedagem
+
+link: https://devpaiola.netlify.app
+
 ## Como Rodar Localmente
 
 Se desejar rodar o site localmente, siga estas etapas:
