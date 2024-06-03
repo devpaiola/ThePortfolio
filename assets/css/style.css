@@ -927,3 +927,7 @@ section.formulario form textarea {
     transform: rotate(45deg) translate(-5px, -7px);
   }
   
+
+.intervalCardReveal, link-projects{
+    text-align: center;
+}
